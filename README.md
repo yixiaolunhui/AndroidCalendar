@@ -69,7 +69,7 @@ github:https://github.com/SundeepK/CompactCalendarView
 
 10、Currently there is no easy way of showing a calendar with the ability to display events on days, ExtendedCalendarView is meant to solve that problem.
 
-![image](https://github.com/dalong982242260/AndroidCalendar/blob/master/img/calendar10.gif)
+![image](https://github.com/dalong982242260/AndroidCalendar/blob/master/img/calendar10.png)
 
 github:https://github.com/tyczj/ExtendedCalendarView
 

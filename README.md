@@ -103,7 +103,7 @@ github:https://github.com/NLMartian/SilkCal
 
 15、这是一个符合中国人使用习惯的Android上自定义日历控件。
 
-![image](https://github.com/dalong982242260/AndroidCalendar/blob/master/img/calendar15.gif)
+![image](https://github.com/dalong982242260/AndroidCalendar/blob/master/img/calendar15.png)
 
 github:https://github.com/lichao315/Calendar
 
@@ -138,7 +138,7 @@ github:https://github.com/ToDou/CalendarPager
 
 20、Nice calendar custom view, ready to use out of the box!
 
-![image](https://github.com/dalong982242260/AndroidCalendar/blob/master/img/calendar20.gif)
+![image](https://github.com/dalong982242260/AndroidCalendar/blob/master/img/calendar20.png)
 
 github:https://github.com/marcohc/RobotoCalendarView
 
@@ -170,14 +170,14 @@ github:https://github.com/GerritHoekstra/CompactCalendarViewToolbar
 
 25、这是一个开源的日历代码,采取MaterialDesign的风格来设计,一方面是为了练手,另一方面希望在开发过程中能整理出来几个有用库,农历的算法节气之类的要是计算的的话比较头疼,下一个版本尽量解决.下面列出已完成部分还有正在开发的部分,有好的建议欢迎提出issue
 
-![image](https://github.com/dalong982242260/AndroidCalendar/blob/master/img/calendar25.gif)
+![image](https://github.com/dalong982242260/AndroidCalendar/blob/master/img/calendar25.png)
 
 github:https://github.com/Haoxiqiang/MaterialCalendar
 
 
 26、Date picker for Iranian calendar
 
-![image](https://github.com/dalong982242260/AndroidCalendar/blob/master/img/calendar26.png)
+![image](https://github.com/dalong982242260/AndroidCalendar/blob/master/img/calendar26.jpg)
 
 github:https://github.com/alirezaafkar/SunDatePicker
 

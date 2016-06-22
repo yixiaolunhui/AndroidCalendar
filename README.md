@@ -208,6 +208,12 @@ github:https://github.com/SilleBille/DynamicCalendar
 
 github:https://github.com/haibuzou/Calendar365
 
+31、There are two different modes as the pictures above show.The former is in the normal calendar mode.
+    The latter is in the record mode, aiming to record the completion of your plans in the current month.
+    Support API LEVEL >= 7.
+![image](https://github.com/laserwave/Android-CalendarView/raw/master/display/2.gif)
+![image](https://github.com/laserwave/Android-CalendarView/blob/master/display/1.gif)
+github:https://github.com/laserwave/android-CalendarView
 
 待续(Waiting)5..
 

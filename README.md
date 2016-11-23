@@ -301,4 +301,8 @@ github：https://github.com/myjoybar/android-calendar-view
 47、一个可以进行周月切换的日历，左右滑动的切换月份，上下滑动可以进行周，月不同的视图切换，可以进行事件的标记，以及节假日的显示，功能丰富，欢迎各位提出意见和建议
 ![image](https://camo.githubusercontent.com/71da6b478137000af1430a882c6e46ab93a68a03/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531313137313232373338303834)
 github:https://github.com/afinal/week-month-Calendar
+
+48、A lightweight monthly calendar view for Android, fully written in Kotlin. Designed to meet the minimum demands for typical calendars.
+![image](https://cloud.githubusercontent.com/assets/21093614/18807459/a6692ca4-8282-11e6-921d-1ea46c545ed4.gif)
+github:https://github.com/recruit-mp/LightCalendarView
 待续(Waiting)5..

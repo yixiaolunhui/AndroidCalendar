@@ -321,4 +321,12 @@ github：https://github.com/mrme2014/MonthView
 51、android高仿钉钉和小米的自定义日历控件（支持阴历和阳历，左右无限翻页viewpager）
 ![image](https://github.com/codbking/CalendarExaple/raw/master/image/bbbb.gif)
 github：https://github.com/codbking/CalendarExaple
-待续(Waiting)5..
+
+
+
+52、A material horizontal calendar view for Android based on RecyclerView
+![image](https://github.com/Mulham-Raee/HorizontalCalendar/raw/master/art/demo.gif)
+github:https://github.com/Mulham-Raee/HorizontalCalendar
+待续(Waiting)
+
+

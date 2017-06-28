@@ -327,6 +327,12 @@ github：https://github.com/codbking/CalendarExaple
 52、A material horizontal calendar view for Android based on RecyclerView
 ![image](https://github.com/Mulham-Raee/HorizontalCalendar/raw/master/art/demo.gif)
 github:https://github.com/Mulham-Raee/HorizontalCalendar
+
+
+53、Date Range Picker is a Calender Picker View to show a Customized Date Range Picker with improved UI
+![image](https://github.com/savvisingh/DateRangePicker/raw/master/device-2017-06-23-154706.png)
+![image](https://github.com/savvisingh/DateRangePicker/raw/master/device-2017-06-23-154757.png)
+github:https://github.com/savvisingh/DateRangePicker
 待续(Waiting)
 
 

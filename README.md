@@ -333,6 +333,13 @@ github:https://github.com/Mulham-Raee/HorizontalCalendar
 ![image](https://github.com/savvisingh/DateRangePicker/raw/master/device-2017-06-23-154706.png)
 ![image](https://github.com/savvisingh/DateRangePicker/raw/master/device-2017-06-23-154757.png)
 github:https://github.com/savvisingh/DateRangePicker
+
+54、CosmoCalendar is a fully customizable calendar with a wide variety of features and displaying modes.
+![image](https://github.com/AppliKeySolutions/CosmoCalendar/raw/master/pictures/Calendar-single_2.jpg)
+![image](https://github.com/AppliKeySolutions/CosmoCalendar/raw/master/pictures/Calendar-multiple-years_2.jpg)
+![image](https://github.com/AppliKeySolutions/CosmoCalendar/raw/master/pictures/Calendar-range-years_2.jpg)
+![image](https://github.com/AppliKeySolutions/CosmoCalendar/raw/master/pictures/Calendar-dialogue-dark_2.jpg)
+github:https://github.com/AppliKeySolutions/CosmoCalendar
 待续(Waiting)
 
 

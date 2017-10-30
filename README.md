@@ -340,6 +340,14 @@ github:https://github.com/savvisingh/DateRangePicker
 ![image](https://github.com/AppliKeySolutions/CosmoCalendar/raw/master/pictures/Calendar-range-years_2.jpg)
 ![image](https://github.com/AppliKeySolutions/CosmoCalendar/raw/master/pictures/Calendar-dialogue-dark_2.jpg)
 github:https://github.com/AppliKeySolutions/CosmoCalendar
+
+55、一款仿miui，仿小米，日历，周日历，月日历，月视图、周视图滑动切换，农历,Andriod Calendar , MIUI Calendar,小米日历
+![image](https://github.com/yannecer/NCalendar/raw/master/app/ncalendar3.gif)
+github：https://github.com/yannecer/NCalendar
+
+
+
+
 待续(Waiting)
 
 

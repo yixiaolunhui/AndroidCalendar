@@ -351,6 +351,10 @@ github：https://github.com/yannecer/NCalendar
 https://github.com/huangyanbin/CalendarView
 
 
-待续(Waiting)
+57、Android上一个优雅、万能自定义UI、性能高效的日历控件，热插拔！热插拔！热插拔！重要的事说三遍，支持热插拔实现的UI定制！支持标记、自定义颜色、农历等。Canvas绘制，速度快、占用内存低
+![image](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/shrink.jpeg)
+![image](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/index.jpeg)
+github：https://github.com/huanghaibin-dev/CalendarView
 
+待续(Waiting)
 

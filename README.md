@@ -356,5 +356,11 @@ https://github.com/huangyanbin/CalendarView
 ![image](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/index.jpeg)
 github：https://github.com/huanghaibin-dev/CalendarView
 
+
+58、Android widget to present calendar in a recycler view. The idea was to replicate calendar the way calendar is presented in the amazing Airbnb app.
+
+![image](https://github.com/RafalManka/ScrollCalendar/raw/master/gif.gif)
+
+github：https://github.com/RafalManka/ScrollCalendar
 待续(Waiting)
 

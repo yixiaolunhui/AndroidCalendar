@@ -12,7 +12,7 @@ github:https://github.com/AigeStudio/DatePicker
 2、Standalone Android widget for picking a single date from a calendar view.
 
 
-![image](https://github.com/dalong982242260/AndroidCalendar/blob/master/img/calendar2.png)
+![image](https://github.com/dalong982242260/AndroidCalendar/blob/master/img/calendar2.png?imageView/2/w/450/q/90)
 
 github:https://github.com/square/android-times-square
 

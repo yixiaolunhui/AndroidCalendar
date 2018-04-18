@@ -366,5 +366,14 @@ github：https://github.com/RafalManka/ScrollCalendar
 59、Make MaterialCalendarView can be nested scroll, and smooth switch to week or month mode.
 ![image](https://camo.githubusercontent.com/7be52e8b9a9aa5c2e8f778ba329f0a998e049a15/68747470733a2f2f757365722d676f6c642d63646e2e786974752e696f2f323031382f332f32372f313632363561616235333834656231393f773d33303426683d35333826663d67696626733d343436313034)
 github：https://github.com/SouthernBox/NestedCalendar
+
+
+
+60、Collapsible CalendarView in simple calendar view which can be collapsed to save space and can be expanded when needed 
+![image](https://camo.githubusercontent.com/f52969280c9ea9c3bc4f9f4ebc1ba884dfaec18a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d314c735062796256544a666346464c2d345f42424a6276743568395753684c4932)
+github：https://github.com/shrikanth7698/Collapsible-Calendar-View-Android
+
+
+
 待续(Waiting)
 

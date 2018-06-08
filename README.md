@@ -379,6 +379,50 @@ github：https://github.com/SouthernBox/NestedCalendar
 github：https://github.com/shrikanth7698/Collapsible-Calendar-View-Android
 
 
+61、这是一个Android的酒店类型的日历选择空间，基于recyclerview实现
+![image](https://github.com/1215689027/AndroidHotelCalendar/raw/master/效果图/效果图1.png)
+github：https://github.com/1215689027/AndroidHotelCalendar
+
+
+62、Android日历连续区间选择
+![image](https://github.com/TurnTears/CalendarRangeSelect/raw/2d9b3e081698d61c201ffafac581583982f3d750/preview/img.gif)
+github：https://github.com/mzyq/CalendarRangeSelect
+
+
+63、日历选择这个库支持单选日期以及选择时间段， 并且可以设置第一次进入 是选中第一天，还是当天， 还是最后一天。 
+![image](https://github.com/richzjc/calendar_select/raw/master/single.gif)
+github：https://github.com/richzjc/calendar_select
+
+64、CalendarView Personalizado para desarrolladores android
+| demo 9 | demo 10 | demo 11 | demo 12 | 
+| --- | --- | --- | --- |
+| ![](https://cloud.githubusercontent.com/assets/15864336/23593793/7fb78d10-01e1-11e7-8bf1-36c57f2f515d.png) | ![](https://cloud.githubusercontent.com/assets/15864336/23593795/7fb8c31a-01e1-11e7-837d-fa828ce0c9d4.png) | ![](https://cloud.githubusercontent.com/assets/15864336/23593794/7fb88dc8-01e1-11e7-8b23-76b4da4cb523.png) | ![](https://cloud.githubusercontent.com/assets/15864336/23593796/7fc8f348-01e1-11e7-90e0-27a9eeaf3f5d.png) |
+
+| demo 13 | demo 14 | demo 15 | demo 16 | 
+| --- | --- | --- | --- |
+| ![](https://cloud.githubusercontent.com/assets/15864336/23593799/7fcdcab2-01e1-11e7-80c8-e5da3aa210a1.png) | ![](https://cloud.githubusercontent.com/assets/15864336/23593797/7fcc27b6-01e1-11e7-82b4-53f0a7d63671.png)  | ![](https://cloud.githubusercontent.com/assets/15864336/23593798/7fcdbffe-01e1-11e7-980e-443a4673d949.png) | ![](https://cloud.githubusercontent.com/assets/15864336/23593796/7fc8f348-01e1-11e7-90e0-27a9eeaf3f5d.png)  |
+github：https://github.com/MorochoRochaDarwin/OneCalendarView
+
+
+65、Android上一个优雅、万能自定义UI、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar Widget on Android.
+###
+<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/custom_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/custom_shrink.png" height="650"/>
+###
+<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/meizu.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/meizu_shrink.png" height="650"/>
+###
+<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/index_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/color_expand.png" height="650"/>
+###
+<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/progress_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/progress_shrink.png" height="650"/>
+###
+<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/solar_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/solar_shrink.png" height="650"/>
+###
+<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/year_view.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/simple_expand.png" height="650"/>
+github：https://github.com/huanghaibin-dev/CalendarView
+
+
+66、一个简单的日历控件,颜色自定义,水平方向和垂直方向,支持手势滑动,支持区间范围选择
+![image](https://github.com/maning0303/MNCalendar/raw/master/screenshots/mncalendar_gif02.gif)
+github：https://github.com/maning0303/MNCalendar
 
 待续(Waiting)
 
